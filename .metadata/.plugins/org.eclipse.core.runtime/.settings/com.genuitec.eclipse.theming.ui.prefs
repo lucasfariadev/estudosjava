@@ -1,12 +1,13 @@
 applyBackground=false
 approved.defs.file.last.changed.time=1624986146000
-configurationInstallLocation=/C\:/Users/lucas/eclipse/java-2021-06/eclipse/
+configurationInstallLocation=/C\:/Users/lucas/eclipse/java-2021-09/eclipse/
 ct.upsell.display.after=1630846699544
 eclipse.preferences.version=1
 iconcolormode=primary
-iconreplacement=false
-last.download.attempt.time=1632789881982
-lastConfiguration=1632789838849
+iconreplacement=true
+includeThemingInOomph=false
+last.download.attempt.time=1635969857985
+lastConfiguration=1635969793938
 newinstall=false
 showWelcomeDialog=false
 workbench.theme=Dark Gray
